@@ -1,5 +1,7 @@
 # Tuklas Pinas Data Platform
 
+[![CI](https://github.com/ftw-git-away/tuklas-pinas-data-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/ftw-git-away/tuklas-pinas-data-platform/actions/workflows/ci.yml)
+
 A public-facing tourism and local economy data platform for exploring tourism activity across Philippine destinations and how it relates to local economic, geographic, and population conditions.
 
 **GitHub organization:** [ftw-git-away](https://github.com/ftw-git-away)  
